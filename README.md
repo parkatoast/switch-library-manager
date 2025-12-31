@@ -43,7 +43,7 @@ You can customize the folder/file re-naming, as well as turn on/off features, an
 {
  "versions_json_url": "https://raw.githubusercontent.com/blawar/titledb/master/versions.json",
  "versions_etag": "W/\"c3f5ecb3392d61:0\"",
- "titles_json_url": "https://tinfoil.media/repo/db/titles.json",
+ "titles_json_url": "https://tinfoil.io/repo/db/titles.json",
  "titles_etag": "W/\"4a4fcc163a92d61:0\"",
  "prod_keys": "",
  "folder": "",
