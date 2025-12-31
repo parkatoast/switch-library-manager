@@ -109,7 +109,7 @@ The following template elements are supported:
 
 ### Console parameters
 
-NOTE: parameters are only usable in command line mode, exept the parameter -m (mode) which will override the gui setting.
+NOTE: parameters are only usable in command line mode, except the parameter -m (mode) which will override the gui setting.
 
 | Name           | Flag | Value       | Description                                                                                          |
 | -------------- | ---- | ----------- | ---------------------------------------------------------------------------------------------------- |
